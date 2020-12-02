@@ -114,7 +114,7 @@ public class Zarema_Hibernate_Apache_POI_MS_Word {
        catch(IOException e) {
       System.out.println(e);
   }
-  System.out.println("Document created");
+  System.out.println("Документ с измененными данными создан");
     }
     
 
