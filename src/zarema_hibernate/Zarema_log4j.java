@@ -1,4 +1,4 @@
-package zarema_hibernate;
+ package zarema_hibernate;
 
 import java.io.IOException;
 import java.util.logging.FileHandler;
@@ -6,7 +6,7 @@ import java.util.logging.Handler;
 import java.util.logging.Level;
 import java.util.logging.SimpleFormatter;
 
-public class Zarema_log4j {
+ public class Zarema_log4j {
 
     static {
         // Установка формата вывода для java.util.logging.SimpleFormatter
@@ -43,4 +43,4 @@ public class Zarema_log4j {
         org.apache.log4j.LogManager.shutdown();
     }
 
-}
+} 
