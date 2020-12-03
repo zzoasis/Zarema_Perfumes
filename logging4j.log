@@ -1,0 +1,133 @@
+2020-12-03 00:11:11 [INFO ] Version:66 - HCANN000001: Hibernate Commons Annotations {4.0.4.Final}
+2020-12-03 00:11:11 [INFO ] Version:54 - HHH000412: Hibernate Core {4.3.1.Final}
+2020-12-03 00:11:11 [INFO ] Environment:239 - HHH000206: hibernate.properties not found
+2020-12-03 00:11:11 [INFO ] Environment:346 - HHH000021: Bytecode provider name : javassist
+2020-12-03 00:11:11 [INFO ] Configuration:2073 - HHH000043: Configuring from resource: /hibernate.cfg.xml
+2020-12-03 00:11:11 [INFO ] Configuration:2092 - HHH000040: Configuration resource: /hibernate.cfg.xml
+2020-12-03 00:11:12 [WARN ] DTDEntityResolver:75 - HHH000223: Recognized obsolete hibernate namespace http://hibernate.sourceforge.net/. Use namespace http://www.hibernate.org/dtd/ instead. Refer to Hibernate 3.6 Migration Guide!
+2020-12-03 00:11:12 [INFO ] Configuration:757 - HHH000221: Reading mappings from resource: pojos/Perfumes.hbm.xml
+2020-12-03 00:11:12 [INFO ] Configuration:2214 - HHH000041: Configured SessionFactory: null
+2020-12-03 00:11:12 [WARN ] DriverManagerConnectionProviderImpl:93 - HHH000402: Using Hibernate built-in connection pool (not for production use!)
+2020-12-03 00:11:12 [INFO ] DriverManagerConnectionProviderImpl:166 - HHH000401: using driver [com.mysql.jdbc.Driver] at URL [jdbc:mysql://localhost:3306/perfumes?useUnicode=true&useJDBCCompliantTimezoneShift=true&useLegacyDatetimeCode=false&serverTimezone=UTC]
+2020-12-03 00:11:12 [INFO ] DriverManagerConnectionProviderImpl:175 - HHH000046: Connection properties: {user=root, password=****}
+2020-12-03 00:11:12 [INFO ] DriverManagerConnectionProviderImpl:180 - HHH000006: Autocommit mode: false
+2020-12-03 00:11:12 [INFO ] DriverManagerConnectionProviderImpl:102 - HHH000115: Hibernate connection pool size: 20 (min=1)
+2020-12-03 00:11:16 [INFO ] Dialect:145 - HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+2020-12-03 00:11:17 [INFO ] TransactionFactoryInitiator:62 - HHH000399: Using default transaction strategy (direct JDBC transactions)
+2020-12-03 00:11:17 [INFO ] ASTQueryTranslatorFactory:47 - HHH000397: Using ASTQueryTranslatorFactory
+2020-12-03 14:40:23 [INFO ] Version:66 - HCANN000001: Hibernate Commons Annotations {4.0.4.Final}
+2020-12-03 14:40:24 [INFO ] Version:54 - HHH000412: Hibernate Core {4.3.1.Final}
+2020-12-03 14:40:24 [INFO ] Environment:239 - HHH000206: hibernate.properties not found
+2020-12-03 14:40:24 [INFO ] Environment:346 - HHH000021: Bytecode provider name : javassist
+2020-12-03 14:40:25 [INFO ] Configuration:2073 - HHH000043: Configuring from resource: /hibernate.cfg.xml
+2020-12-03 14:40:25 [INFO ] Configuration:2092 - HHH000040: Configuration resource: /hibernate.cfg.xml
+2020-12-03 14:40:28 [WARN ] DTDEntityResolver:75 - HHH000223: Recognized obsolete hibernate namespace http://hibernate.sourceforge.net/. Use namespace http://www.hibernate.org/dtd/ instead. Refer to Hibernate 3.6 Migration Guide!
+2020-12-03 14:40:28 [INFO ] Configuration:757 - HHH000221: Reading mappings from resource: pojos/Perfumes.hbm.xml
+2020-12-03 14:40:32 [INFO ] Configuration:2214 - HHH000041: Configured SessionFactory: null
+2020-12-03 14:40:36 [WARN ] DriverManagerConnectionProviderImpl:93 - HHH000402: Using Hibernate built-in connection pool (not for production use!)
+2020-12-03 14:40:37 [INFO ] DriverManagerConnectionProviderImpl:166 - HHH000401: using driver [com.mysql.jdbc.Driver] at URL [jdbc:mysql://localhost:3306/perfumes?useUnicode=true&useJDBCCompliantTimezoneShift=true&useLegacyDatetimeCode=false&serverTimezone=UTC]
+2020-12-03 14:40:37 [INFO ] DriverManagerConnectionProviderImpl:175 - HHH000046: Connection properties: {user=root, password=****}
+2020-12-03 14:40:37 [INFO ] DriverManagerConnectionProviderImpl:180 - HHH000006: Autocommit mode: false
+2020-12-03 14:40:37 [INFO ] DriverManagerConnectionProviderImpl:102 - HHH000115: Hibernate connection pool size: 20 (min=1)
+2020-12-03 14:42:06 [INFO ] Version:66 - HCANN000001: Hibernate Commons Annotations {4.0.4.Final}
+2020-12-03 14:42:06 [INFO ] Version:54 - HHH000412: Hibernate Core {4.3.1.Final}
+2020-12-03 14:42:06 [INFO ] Environment:239 - HHH000206: hibernate.properties not found
+2020-12-03 14:42:07 [INFO ] Environment:346 - HHH000021: Bytecode provider name : javassist
+2020-12-03 14:42:07 [INFO ] Configuration:2073 - HHH000043: Configuring from resource: /hibernate.cfg.xml
+2020-12-03 14:42:07 [INFO ] Configuration:2092 - HHH000040: Configuration resource: /hibernate.cfg.xml
+2020-12-03 14:42:09 [WARN ] DTDEntityResolver:75 - HHH000223: Recognized obsolete hibernate namespace http://hibernate.sourceforge.net/. Use namespace http://www.hibernate.org/dtd/ instead. Refer to Hibernate 3.6 Migration Guide!
+2020-12-03 14:42:10 [INFO ] Configuration:757 - HHH000221: Reading mappings from resource: pojos/Perfumes.hbm.xml
+2020-12-03 14:42:12 [INFO ] Configuration:2214 - HHH000041: Configured SessionFactory: null
+2020-12-03 14:42:13 [WARN ] DriverManagerConnectionProviderImpl:93 - HHH000402: Using Hibernate built-in connection pool (not for production use!)
+2020-12-03 14:42:14 [INFO ] DriverManagerConnectionProviderImpl:166 - HHH000401: using driver [com.mysql.jdbc.Driver] at URL [jdbc:mysql://localhost:3306/perfumes?useUnicode=true&useJDBCCompliantTimezoneShift=true&useLegacyDatetimeCode=false&serverTimezone=UTC]
+2020-12-03 14:42:14 [INFO ] DriverManagerConnectionProviderImpl:175 - HHH000046: Connection properties: {user=root, password=****}
+2020-12-03 14:42:14 [INFO ] DriverManagerConnectionProviderImpl:180 - HHH000006: Autocommit mode: false
+2020-12-03 14:42:14 [INFO ] DriverManagerConnectionProviderImpl:102 - HHH000115: Hibernate connection pool size: 20 (min=1)
+2020-12-03 14:42:29 [INFO ] Dialect:145 - HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+2020-12-03 14:42:31 [INFO ] TransactionFactoryInitiator:62 - HHH000399: Using default transaction strategy (direct JDBC transactions)
+2020-12-03 14:42:31 [INFO ] ASTQueryTranslatorFactory:47 - HHH000397: Using ASTQueryTranslatorFactory
+2020-12-03 18:49:19 [INFO ] Version:66 - HCANN000001: Hibernate Commons Annotations {4.0.4.Final}
+2020-12-03 18:49:19 [INFO ] Version:54 - HHH000412: Hibernate Core {4.3.1.Final}
+2020-12-03 18:49:19 [INFO ] Environment:239 - HHH000206: hibernate.properties not found
+2020-12-03 18:49:19 [INFO ] Environment:346 - HHH000021: Bytecode provider name : javassist
+2020-12-03 18:49:19 [INFO ] Configuration:2073 - HHH000043: Configuring from resource: /hibernate.cfg.xml
+2020-12-03 18:49:19 [INFO ] Configuration:2092 - HHH000040: Configuration resource: /hibernate.cfg.xml
+2020-12-03 18:49:19 [WARN ] DTDEntityResolver:75 - HHH000223: Recognized obsolete hibernate namespace http://hibernate.sourceforge.net/. Use namespace http://www.hibernate.org/dtd/ instead. Refer to Hibernate 3.6 Migration Guide!
+2020-12-03 18:49:19 [INFO ] Configuration:757 - HHH000221: Reading mappings from resource: pojos/Perfumes.hbm.xml
+2020-12-03 18:49:20 [INFO ] Configuration:2214 - HHH000041: Configured SessionFactory: null
+2020-12-03 18:49:20 [WARN ] DriverManagerConnectionProviderImpl:93 - HHH000402: Using Hibernate built-in connection pool (not for production use!)
+2020-12-03 18:49:20 [INFO ] DriverManagerConnectionProviderImpl:166 - HHH000401: using driver [com.mysql.jdbc.Driver] at URL [jdbc:mysql://localhost:3306/perfumes?useUnicode=true&useJDBCCompliantTimezoneShift=true&useLegacyDatetimeCode=false&serverTimezone=UTC]
+2020-12-03 18:49:20 [INFO ] DriverManagerConnectionProviderImpl:175 - HHH000046: Connection properties: {user=root, password=****}
+2020-12-03 18:49:20 [INFO ] DriverManagerConnectionProviderImpl:180 - HHH000006: Autocommit mode: false
+2020-12-03 18:49:20 [INFO ] DriverManagerConnectionProviderImpl:102 - HHH000115: Hibernate connection pool size: 20 (min=1)
+2020-12-03 18:49:31 [INFO ] Dialect:145 - HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+2020-12-03 18:49:31 [INFO ] TransactionFactoryInitiator:62 - HHH000399: Using default transaction strategy (direct JDBC transactions)
+2020-12-03 18:49:31 [INFO ] ASTQueryTranslatorFactory:47 - HHH000397: Using ASTQueryTranslatorFactory
+2020-12-03 19:09:55 [INFO ] Version:66 - HCANN000001: Hibernate Commons Annotations {4.0.4.Final}
+2020-12-03 19:09:55 [INFO ] Version:54 - HHH000412: Hibernate Core {4.3.1.Final}
+2020-12-03 19:09:55 [INFO ] Environment:239 - HHH000206: hibernate.properties not found
+2020-12-03 19:09:55 [INFO ] Environment:346 - HHH000021: Bytecode provider name : javassist
+2020-12-03 19:09:55 [INFO ] Configuration:2073 - HHH000043: Configuring from resource: /hibernate.cfg.xml
+2020-12-03 19:09:55 [INFO ] Configuration:2092 - HHH000040: Configuration resource: /hibernate.cfg.xml
+2020-12-03 19:09:55 [WARN ] DTDEntityResolver:75 - HHH000223: Recognized obsolete hibernate namespace http://hibernate.sourceforge.net/. Use namespace http://www.hibernate.org/dtd/ instead. Refer to Hibernate 3.6 Migration Guide!
+2020-12-03 19:09:56 [INFO ] Configuration:757 - HHH000221: Reading mappings from resource: pojos/Perfumes.hbm.xml
+2020-12-03 19:09:56 [INFO ] Configuration:2214 - HHH000041: Configured SessionFactory: null
+2020-12-03 19:09:57 [WARN ] DriverManagerConnectionProviderImpl:93 - HHH000402: Using Hibernate built-in connection pool (not for production use!)
+2020-12-03 19:09:57 [INFO ] DriverManagerConnectionProviderImpl:166 - HHH000401: using driver [com.mysql.jdbc.Driver] at URL [jdbc:mysql://localhost:3306/perfumes?useUnicode=true&useJDBCCompliantTimezoneShift=true&useLegacyDatetimeCode=false&serverTimezone=UTC]
+2020-12-03 19:09:57 [INFO ] DriverManagerConnectionProviderImpl:175 - HHH000046: Connection properties: {user=root, password=****}
+2020-12-03 19:09:57 [INFO ] DriverManagerConnectionProviderImpl:180 - HHH000006: Autocommit mode: false
+2020-12-03 19:09:57 [INFO ] DriverManagerConnectionProviderImpl:102 - HHH000115: Hibernate connection pool size: 20 (min=1)
+2020-12-03 19:10:09 [INFO ] Dialect:145 - HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+2020-12-03 19:10:10 [INFO ] TransactionFactoryInitiator:62 - HHH000399: Using default transaction strategy (direct JDBC transactions)
+2020-12-03 19:10:10 [INFO ] ASTQueryTranslatorFactory:47 - HHH000397: Using ASTQueryTranslatorFactory
+2020-12-03 19:23:12 [INFO ] Version:66 - HCANN000001: Hibernate Commons Annotations {4.0.4.Final}
+2020-12-03 19:23:12 [INFO ] Version:54 - HHH000412: Hibernate Core {4.3.1.Final}
+2020-12-03 19:23:12 [INFO ] Environment:239 - HHH000206: hibernate.properties not found
+2020-12-03 19:23:12 [INFO ] Environment:346 - HHH000021: Bytecode provider name : javassist
+2020-12-03 19:23:12 [INFO ] Configuration:2073 - HHH000043: Configuring from resource: /hibernate.cfg.xml
+2020-12-03 19:23:12 [INFO ] Configuration:2092 - HHH000040: Configuration resource: /hibernate.cfg.xml
+2020-12-03 19:23:12 [WARN ] DTDEntityResolver:75 - HHH000223: Recognized obsolete hibernate namespace http://hibernate.sourceforge.net/. Use namespace http://www.hibernate.org/dtd/ instead. Refer to Hibernate 3.6 Migration Guide!
+2020-12-03 19:23:12 [INFO ] Configuration:757 - HHH000221: Reading mappings from resource: pojos/Perfumes.hbm.xml
+2020-12-03 19:23:13 [INFO ] Configuration:2214 - HHH000041: Configured SessionFactory: null
+2020-12-03 19:23:14 [WARN ] DriverManagerConnectionProviderImpl:93 - HHH000402: Using Hibernate built-in connection pool (not for production use!)
+2020-12-03 19:23:14 [INFO ] DriverManagerConnectionProviderImpl:166 - HHH000401: using driver [com.mysql.jdbc.Driver] at URL [jdbc:mysql://localhost:3306/perfumes?useUnicode=true&useJDBCCompliantTimezoneShift=true&useLegacyDatetimeCode=false&serverTimezone=UTC]
+2020-12-03 19:23:14 [INFO ] DriverManagerConnectionProviderImpl:175 - HHH000046: Connection properties: {user=root, password=****}
+2020-12-03 19:23:14 [INFO ] DriverManagerConnectionProviderImpl:180 - HHH000006: Autocommit mode: false
+2020-12-03 19:23:14 [INFO ] DriverManagerConnectionProviderImpl:102 - HHH000115: Hibernate connection pool size: 20 (min=1)
+2020-12-03 19:23:21 [INFO ] Dialect:145 - HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+2020-12-03 19:23:21 [INFO ] TransactionFactoryInitiator:62 - HHH000399: Using default transaction strategy (direct JDBC transactions)
+2020-12-03 19:23:21 [INFO ] ASTQueryTranslatorFactory:47 - HHH000397: Using ASTQueryTranslatorFactory
+2020-12-03 20:13:51 [INFO ] Version:66 - HCANN000001: Hibernate Commons Annotations {4.0.4.Final}
+2020-12-03 20:13:51 [INFO ] Version:54 - HHH000412: Hibernate Core {4.3.1.Final}
+2020-12-03 20:13:51 [INFO ] Environment:239 - HHH000206: hibernate.properties not found
+2020-12-03 20:13:51 [INFO ] Environment:346 - HHH000021: Bytecode provider name : javassist
+2020-12-03 20:13:51 [INFO ] Configuration:2073 - HHH000043: Configuring from resource: /hibernate.cfg.xml
+2020-12-03 20:13:51 [INFO ] Configuration:2092 - HHH000040: Configuration resource: /hibernate.cfg.xml
+2020-12-03 20:13:52 [WARN ] DTDEntityResolver:75 - HHH000223: Recognized obsolete hibernate namespace http://hibernate.sourceforge.net/. Use namespace http://www.hibernate.org/dtd/ instead. Refer to Hibernate 3.6 Migration Guide!
+2020-12-03 20:13:52 [INFO ] Configuration:757 - HHH000221: Reading mappings from resource: pojos/Perfumes.hbm.xml
+2020-12-03 20:13:52 [INFO ] Configuration:2214 - HHH000041: Configured SessionFactory: null
+2020-12-03 20:13:52 [WARN ] DriverManagerConnectionProviderImpl:93 - HHH000402: Using Hibernate built-in connection pool (not for production use!)
+2020-12-03 20:13:52 [INFO ] DriverManagerConnectionProviderImpl:166 - HHH000401: using driver [com.mysql.jdbc.Driver] at URL [jdbc:mysql://localhost:3306/perfumes?useUnicode=true&useJDBCCompliantTimezoneShift=true&useLegacyDatetimeCode=false&serverTimezone=UTC]
+2020-12-03 20:13:52 [INFO ] DriverManagerConnectionProviderImpl:175 - HHH000046: Connection properties: {user=root, password=****}
+2020-12-03 20:13:52 [INFO ] DriverManagerConnectionProviderImpl:180 - HHH000006: Autocommit mode: false
+2020-12-03 20:13:52 [INFO ] DriverManagerConnectionProviderImpl:102 - HHH000115: Hibernate connection pool size: 20 (min=1)
+2020-12-03 20:13:58 [INFO ] Dialect:145 - HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+2020-12-03 20:13:58 [INFO ] TransactionFactoryInitiator:62 - HHH000399: Using default transaction strategy (direct JDBC transactions)
+2020-12-03 20:13:58 [INFO ] ASTQueryTranslatorFactory:47 - HHH000397: Using ASTQueryTranslatorFactory
+2020-12-03 20:27:51 [INFO ] Version:66 - HCANN000001: Hibernate Commons Annotations {4.0.4.Final}
+2020-12-03 20:27:51 [INFO ] Version:54 - HHH000412: Hibernate Core {4.3.1.Final}
+2020-12-03 20:27:51 [INFO ] Environment:239 - HHH000206: hibernate.properties not found
+2020-12-03 20:27:51 [INFO ] Environment:346 - HHH000021: Bytecode provider name : javassist
+2020-12-03 20:27:51 [INFO ] Configuration:2073 - HHH000043: Configuring from resource: /hibernate.cfg.xml
+2020-12-03 20:27:51 [INFO ] Configuration:2092 - HHH000040: Configuration resource: /hibernate.cfg.xml
+2020-12-03 20:27:52 [WARN ] DTDEntityResolver:75 - HHH000223: Recognized obsolete hibernate namespace http://hibernate.sourceforge.net/. Use namespace http://www.hibernate.org/dtd/ instead. Refer to Hibernate 3.6 Migration Guide!
+2020-12-03 20:27:52 [INFO ] Configuration:757 - HHH000221: Reading mappings from resource: pojos/Perfumes.hbm.xml
+2020-12-03 20:27:52 [INFO ] Configuration:2214 - HHH000041: Configured SessionFactory: null
+2020-12-03 20:27:52 [WARN ] DriverManagerConnectionProviderImpl:93 - HHH000402: Using Hibernate built-in connection pool (not for production use!)
+2020-12-03 20:27:52 [INFO ] DriverManagerConnectionProviderImpl:166 - HHH000401: using driver [com.mysql.jdbc.Driver] at URL [jdbc:mysql://localhost:3306/perfumes?useUnicode=true&useJDBCCompliantTimezoneShift=true&useLegacyDatetimeCode=false&serverTimezone=UTC]
+2020-12-03 20:27:52 [INFO ] DriverManagerConnectionProviderImpl:175 - HHH000046: Connection properties: {user=root, password=****}
+2020-12-03 20:27:52 [INFO ] DriverManagerConnectionProviderImpl:180 - HHH000006: Autocommit mode: false
+2020-12-03 20:27:52 [INFO ] DriverManagerConnectionProviderImpl:102 - HHH000115: Hibernate connection pool size: 20 (min=1)
+2020-12-03 20:27:57 [INFO ] Dialect:145 - HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+2020-12-03 20:27:57 [INFO ] TransactionFactoryInitiator:62 - HHH000399: Using default transaction strategy (direct JDBC transactions)
+2020-12-03 20:27:57 [INFO ] ASTQueryTranslatorFactory:47 - HHH000397: Using ASTQueryTranslatorFactory

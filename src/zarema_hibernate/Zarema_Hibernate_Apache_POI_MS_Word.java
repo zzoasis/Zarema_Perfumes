@@ -49,7 +49,7 @@ public class Zarema_Hibernate_Apache_POI_MS_Word {
         roster.update(cherry);
         list(roster.createCriteria(pojos.Perfumes.class).list());
 
-        //Изменение данных 3 игрока - Томас
+
         System.out.println("Изменение данных духов Пандора");
         pojos.Perfumes perfumechange = (pojos.Perfumes) roster.load(pojos.Perfumes.class, 3);
         perfumechange.setFlavor("Брусника");
@@ -57,13 +57,16 @@ public class Zarema_Hibernate_Apache_POI_MS_Word {
 
         roster.update(perfumechange);
         list(roster.createCriteria(pojos.Perfumes.class).list());
+
         XWPFTable table = document.createTable();
+ 
 		
       XWPFTableRow tableRowOne = table.getRow(0);
       tableRowOne.getCell(0).setText("название");
       tableRowOne.addNewTableCell().setText("цена");
       tableRowOne.addNewTableCell().setText("аромат");
       tableRowOne.addNewTableCell().setText("объем");
+      
 		
 
       XWPFTableRow tableRowTwo = table.createRow();
